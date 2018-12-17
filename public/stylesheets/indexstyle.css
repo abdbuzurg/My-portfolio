@@ -1,0 +1,30 @@
+
+.row {
+	border-radius: 25px;
+	margin-bottom:10px;
+	background-color: #CFCFCF;
+	padding-top: 10px;
+}
+#topBar {	
+	margin-top: 100px;
+	color: #000000;
+	font-size: 20px;
+	align-items: center;
+}
+#name {		
+	font-family: 'Cinzel Decorative', cursive;
+}
+#personalInfo img{
+	border-radius:5px;
+	background-color:black;
+
+}
+#personalInfo{
+	padding-right:10px;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+#activities {
+	font-family: 'Cinzel Decorative', cursive;
+	padding-bottom: 8px;
+}

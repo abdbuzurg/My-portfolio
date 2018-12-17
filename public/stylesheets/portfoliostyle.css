@@ -1,0 +1,24 @@
+﻿.container{
+    margin-top:20px;
+}
+.passive{
+    font-size:20px;
+}
+.mainrow {
+    border-radius: 25px;
+    margin-bottom: 10px;
+    background-color: #CFCFCF;
+    padding-top: 10px;
+    padding-bottom:5px;
+}
+#header {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size:30px;
+}
+.head{
+    font-size:25px;
+}
+.content{
+    font-size:18px;
+    padding:10px;
+}
